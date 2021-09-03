@@ -1,74 +1,40 @@
 Guide Me: Steps you can take when...
 ====================================
 
-You are behind on rent
+Your home has bad conditions that need to be fixed
 ----------------------
 
-#### Apply for RAFT
+#### Write to your landlord
 
-If you qualify for the Residential Assistance for Families in Transition
-(RAFT) program, you can get help to pay rent when you are behind.
+Write a letter to your landlord. Tell them about the bad conditions. It is important to write to the landlord. Sometimes a landlord claims they never had notice. If you write to them, put the date on the letter and keep a copy. You will have proof you gave them notice of the bad conditions. 
+See some sample [Demand for Repair letters](https://MassLegalHelp.org/bad-conditions/forms)
 
-To qualify:
+#### Get an inspection
 
--   Your family must be homeless or at risk of becoming homeless.
+If your landlord does not respond to your request to make repairs, get an inspection. Every city and town has a Board of Health or Code Enforcement Department. This agency is responsible for making sure that your apartment meets the minimum standards for health and safety described/explained in the state sanitary code.
 
--   Your household income must be low enough.
+#### Withhold rent - only if you can save it
 
--   You need to show that RAFT assistance will stop your family from
-    becoming homeless. And
+Withholding rent can be a good way to get your landlord to make repairs.
+Only try this strategy after you have written to your landlord about the bad conditions and gotten an inspection.
+You need to be careful if you decide to withhold your rent. Some landlords will turn it around and try to evict you for non-payment of rent. But they will not be able to evict you if you withheld your rent correctly.
 
--   You must pass a Department of Housing and Community Development
-    (DHCD) RAFT Screening.
+Only withhold your rent if:
 
-See:
-[Learn about Residential Assistance for Families in Transition (RAFT)](https://www.mass.gov/service-details/learn-about-residential-assistance-for-families-in-transition-raft) on the Mass.gov website.
+-   The landlord knows about the bad conditions in your apartment
 
-#### Until June 30, 2021, you may be eligible to stop an eviction where your landlord is asking for back rent
+-   You were current with your rent when you wrote to the landlord about the bad conditions in your apartment
 
-You might be protected by the federal CDC Moratorium if you
+-   No one in your household or your guest caused the bad conditions, and
 
--   cannot pay your full rent because you have lost income or have high
-    medical expenses, 
+-   You can save the rent you withhold separately from your other money and not spend it.
 
--   are making best efforts to pay the rent including applying for
-    financial help, and
+#### Sue your landlord
 
--   are likely to become homeless or doubled up if evicted.
+Massachusetts has strong laws that require landlords to make repairs.   Sometimes these laws can result in your right to have you rent abated or reduced – even if you are behind on your rent. If your landlord has not been repairing bad conditions, you may be able to sue your landlord for money.   Learn more about [how to sue your landlord.](https://MassLegalHelp.org/taking-landlord-to-court)
 
-[Learn more](https://www.masslegalhelp.org/covid-19/housing) about the
-moratorium, and how to send your landlord a
-[declaration](https://MassLegalHelp.org/cdc-declaration.pdf)
-that you are protected by the federal CDC moratorium on evictions.
+#### Hire a lawyer
 
+In Massachusetts, many of the laws that require landlords to make repairs also require the landlord to pay for your lawyer, if you win your lawsuit.  This is called "fee shifting." You may be able to get a lawyer to represent you and not have to pay them.   To find a lawyer who specializes in representing tenants, try a [Lawyer Referral Service.](https://MassLRF.org/en/programs/all/1)
 
-#### Make a payment plan with your landlord
-
-Many landlords are more interested in getting the rent paid than
-evicting you. So they agree to payment plans.
-
-Many tenants have been able to put together payment plans drawing from
-their own resources, the RAFT program and charities.
-
-Start working on a plan with your landlord as soon as you can. Ask your
-landlord if they will make a payment plan with you instead of going to
-court.
-
-If the landlord does not agree to a payment plan, you can ask for a
-payment plan when you go to court for your eviction case.
-
-#### Go to court -- if you get a Summary Process Summons and Complaint
-
-Go to court on your hearing date -- even if you think you have worked it
-out with your landlord, or paid off your back rent.
-
-The landlord can ask for a default judgment against you if you do not
-show-up.
-
-#### Contact local organizations
-
-Ask your local agencies, charities and religious organizations if they
-help people who are behind on rent.
-
-See
-[Where can I get help paying my rent?](https://masslegalhelp.org/covid-19/help-with-rent) on MassLegalHelp.
+Learn more about [Getting Repairs Made and Your Rights to Safe and Habitable Housing.](https://MassLegalHelp.org/repairs)

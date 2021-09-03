@@ -5,7 +5,7 @@ Your landlord wants to evict you and
 You had a hearing before a judge and lost and 
 -------------------------------------------------------
 You have not been served with a notice of scheduled eviction.
----------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
 
 This means a judgment for possession (eviction) and, if you owed rent,
 for damages has been entered against you. It will also state that you
@@ -31,23 +31,6 @@ execution. If the court grants a \"stay of the execution,\" the landlord
 cannot move forward with physically evicting you until the stay ends.
 
 See [Stay -- Representing Yourself in an Eviction Case](https://www.masslegalhelp.org/housing/lt1-booklet-8-stay.pdf).
-
-####  You may be eligible to stop an eviction where your landlord is asking for back rent
-
-You might be protected by the federal CDC Moratorium if you
-
--   cannot pay your full rent because you have lost income or have high
-    medical expenses,
-
--   are making best efforts to pay the rent including applying for
-    financial help, and
-
--   are likely to become homeless or doubled up if evicted.
-
-[Learn more](https://www.masslegalhelp.org/covid-19/housing) about the
-moratorium, and how to send your landlord a
-[declaration](https://MassLegalHelp.org/cdc-declaration.pdf)
-that you are protected by the federal CDC moratorium on evictions.
 
 #### Talk to Your landlord
 
