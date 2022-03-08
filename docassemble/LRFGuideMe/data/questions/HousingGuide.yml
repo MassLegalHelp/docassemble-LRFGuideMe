@@ -19,7 +19,7 @@ objects:
 ---
 # Color theme of interview
 features:
-  bootstrap theme: https://stackpath.bootstrapcdn.com/bootswatch/4.4.1/cerulean/bootstrap.min.css  
+  # bootstrap theme: https://stackpath.bootstrapcdn.com/bootswatch/4.4.1/cerulean/bootstrap.min.css  
   question back button: True
   navigation back button: False
   labels above fields: True
