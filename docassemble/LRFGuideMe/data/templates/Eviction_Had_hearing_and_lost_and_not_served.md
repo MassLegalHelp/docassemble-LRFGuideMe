@@ -5,7 +5,7 @@ Your landlord wants to evict you and
 You had a hearing before a judge and lost and 
 -------------------------------------------------------
 You have not been served with a notice of scheduled eviction.
-----------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------
 
 This means a judgment for possession (eviction) and, if you owed rent,
 for damages has been entered against you. It will also state that you

@@ -3,12 +3,12 @@
 template: results
 comment: |
   This block generates content on the output screen.  It checks to see what questions the user answered, then provides a summary from the main_issues dictionary with the inline content to address their issues.
-content: |  
+content: |   
   % for issue in user_issues.true_values():  
     
   % if issue == 'bad_conditions':
   ${main_issues['bad_conditions']['inline']} 
-  % endif 
+  % endif
   
   % if issue == 'behind_on_rent':
   ${main_issues['behind_on_rent']['inline']}  

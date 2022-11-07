@@ -1,36 +1,33 @@
+comment: |
+  In this file the dictionaries in the data blocks define the content to be displayed throughout the interview. Through the template and attachment blocks, 'Label' provides the question text, and 'document' provides the screen output and the downloading file.
 ---
-# Main issues inline templates - used for screen output
+# Main issues inline templates - md files used for screen output
 template: main_issues[i]['inline']
 content file: 
   code: |
-    main_issues[i]['markdown document']
+    (main_issues[i]['document'] + '_' + get_language() + '.md').replace('_en','')
 ---
-# Attachment - used for download 
+# Attachment - docx files used for download 
 attachment:
   name: ${main_issues[i]['label']}
   variable name: main_issues[i]['attachment']
   docx template file: 
     code: |
-      main_issues[i]['word document']
+      (main_issues[i]['document'] + '_' + get_language() + '.docx').replace('_en','')
 ---
 # Main Issues Dictionary
 variable name: main_issues
 use objects: True
-comment: |
-  The following dictionaries contain the information that is displayed throughout the interview.  'Label' controls the question text;  'markdown document' controls the screen output results text; and 'word document' controls the file for downloading.
 data:
   bad_conditions:
-    label: I am having problems with bad housing conditions    
-    word document: Bad_Conditions.docx 
-    markdown document: Bad_Conditions.md
+    label: I am having problems with bad housing conditions   
+    document: Bad_Conditions
   behind_on_rent:
     label: I am behind on rent.    
-    word document: Behind_on_rent.docx
-    markdown document: Behind_on_rent.md
+    document: Behind_on_rent
   complaints:
     label: I have an issue with my neighbor.    
-    word document: Neighbor_Complaints.docx
-    markdown document: Neighbor_Complaints.md  
+    document: Neighbor_Complaints
   eviction:
     label: My landlord is trying to evict me.    
   subsidized_housing:
@@ -38,20 +35,20 @@ data:
   rent_increase:
     label: My landlord is trying to increase rent.    
 ---
-# Eviction inline templates - used for screen output
+# Eviction inline templates - md files used for screen output
 template: eviction_issues[i]['inline']
 content file: 
-  code: |
-    eviction_issues[i]['markdown document']
+  code: |    
+    (eviction_issues[i]['document'] + '_' + get_language() + '.md').replace('_en','')
 ---
-# Eviction Attachments - used for download 
+# Eviction Attachments - docx files used for download 
 attachment:
   name: ${eviction_issues[i]['label']}
-  filename: ${eviction_issues[i]['word document']}
+  filename: ${eviction_issues[i]['document']}
   variable name: eviction_issues[i]['attachment']
   docx template file:
     code: |
-      eviction_issues[i]['word document']
+      (eviction_issues[i]['document'] + '_' + get_language() + '.docx').replace('_en','')
 ---
 # Eviction Dictionary
 variable name: eviction_issues
@@ -59,40 +56,31 @@ use objects: True
 data:
  written_notice_no:
    label: Has your landlord sent you a written notice?   
-   word document: Eviction_Nothing_Received_in_Writing.docx
-   markdown document: Eviction_Nothing_Received_in_Writing.md
+   document: Eviction_Nothing_Received_in_Writing
  court_summons:
    label: Summons with a court date.   
-   word document: Eviction_Received_Summons_with_Court_Date.docx
-   markdown document: Eviction_Received_Summons_with_Court_Date.md
+   document: Eviction_Received_Summons_with_Court_Date
  letter_or_notice:
    label: Letter or notice telling you to leave by a certain date.   
-   word document: Eviction_Received_Letter_or_Notice.docx
-   markdown document: Eviction_Received_Letter_or_Notice.md
+   document: Eviction_Received_Letter_or_Notice
  hearing_served_yes:
    label: Have you gotten notice with a scheduled eviction?   
-   word document: Eviction_Had_hearing_and_lost_and_served.docx
-   markdown document: Eviction_Had_hearing_and_lost_and_served.md
+   document: Eviction_Had_hearing_and_lost_and_served
  hearing_served_no:
    label: Have you gotten notice with a scheduled eviction?   
-   word document: Eviction_Had_hearing_and_lost_and_not_served.docx
-   markdown document: Eviction_Had_hearing_and_lost_and_not_served.md
+   document: Eviction_Had_hearing_and_lost_and_not_served
  default_served_yes:
    label: Have you gotten notice with a scheduled eviction?
-   word document: Eviction_Missed_Court_Defaulted_and_Served.docx
-   markdown document: Eviction_Missed_Court_Defaulted_and_Served.md
+   document: Eviction_Missed_Court_Defaulted_and_Served
  default_served_no:
    label: Have you gotten notice with a scheduled eviction?
-   word document: Eviction_Missed_Court_and_Defaulted_and_not_served.docx
-   markdown document: Eviction_Missed_Court_and_Defaulted_and_not_served.md
+   document: Eviction_Missed_Court_and_Defaulted_and_not_served
  violation_agreement_yes:
    label: Have you been given papers saying that you are in violation of your agreement?
-   word document: Eviction_Served_with_Motion_in_Violation_of_Agreement.docx
-   markdown document: Eviction_Served_with_Motion_in_Violation_of_Agreement.md
+   document: Eviction_Served_with_Motion_in_Violation_of_Agreement
  violation_agreement_no:
    label: Have you been given papers saying that you are violating your agreement?
-   word document: Eviction_Cannot_keep_agreement.docx
-   markdown document: Eviction_Cannot_keep_agreement.md
+   document: Eviction_Cannot_keep_agreement
  default_judgement:
    label: I missed my court date and a default judgement was entered.
  agreement:
@@ -100,20 +88,20 @@ data:
  hearing:
    label: There was a hearing and I lost.
 ---
-# Subsidized housing inline templates - used for screen output
+# Subsidized housing inline templates - md files used for screen output
 template: subsidized_issues[i]['inline']
 content file: 
-  code: |
-    subsidized_issues[i]['markdown document']
+  code: |    
+    (subsidized_issues[i]['document'] + '_' + get_language() + '.md').replace('_en','')
 ---
-# Subsidized Housing Attachments - used for download 
+# Subsidized Housing Attachments - docx files used for download 
 attachment:
   name: ${subsidized_issues[i]['label']}
-  filename: ${subsidized_issues[i]['word document']}
+  filename: ${subsidized_issues[i]['document']}
   variable name: subsidized_issues[i]['attachment']
   docx template file:
     code: |
-      subsidized_issues[i]['word document']
+      (subsidized_issues[i]['document'] + '_' + get_language() + '.docx').replace('_en','')
 ---
 # Subsidized Housing Dictionary
 variable name: subsidized_issues
@@ -121,31 +109,28 @@ use objects: True
 data:
   verification:
     label: My worker or property manager is asking me for verifications that I cannot get.    
-    word document: SubHousing_Cant_get_Verifications.docx
-    markdown document: SubHousing_Cant_get_Verifications.md
+    document: SubHousing_Cant_get_Verifications
   lost_income:
     label: I have told my worker or property manager that I have lost income and have heard nothing from them.
-    word document: SubHousing_Informed_Manager_and_No_response.docx
-    markdown document: SubHousing_Informed_Manager_and_No_response.md
+    document: SubHousing_Informed_Manager_and_No_response
   new_rent:
     label: My worker or property manager has sent me papers stating my new rent and I dont think it is right.
-    word document: SubHousing_notice_of_new_rent.docx
-    markdown document: SubHousing_notice_of_new_rent.md
+    document: SubHousing_notice_of_new_rent
 ---
-# Rent Increase inline templates - used for screen output
+# Rent Increase inline templates - md files used for screen output
 template: rent_increase_issues[i]['inline']
 content file: 
-  code: |
-    rent_increase_issues[i]['markdown document']
+  code: |    
+    (rent_increase_issues[i]['document'] + '_' + get_language() + '.md').replace('_en','')
 ---
-# Rent Increase Attachments - used for download 
+# Rent Increase Attachments - docx files used for download 
 attachment:
   name: ${rent_increase_issues[i]['label']}
-  filename: ${rent_increase_issues[i]['word document']}
+  filename: ${rent_increase_issues[i]['document']}
   variable name: rent_increase_issues[i]['attachment']
   docx template file:
     code: |
-      rent_increase_issues[i]['word document']
+      (rent_increase_issues[i]['document'] + '_' + get_language() + '.docx').replace('_en','')
 ---
 # Rent Increase Dictionary
 variable name: rent_increase_issues
@@ -153,45 +138,33 @@ use objects: True
 data:
   tenancy_no_writing:
     label: I never had a written agreement.    
-    info: |
-    word document: Rent_Increase_No_written_agreement.docx
-    markdown document: Rent_Increase_No_written_agreement.md
+    document: Rent_Increase_No_written_agreement
   lease:
-    label: I have a lease. A lease is a written agreement with a specific end date.
-    info: |
-    word document: Rent_Increase_Lease.docx
-    markdown document: Rent_Increase_Lease.md
+    label: I have a lease. A lease is a written agreement with a specific end date.    
+    document: Rent_Increase_Lease
   section_8:
     label: I have a Section 8 or MRVP housing.
   voucher_yes:
     label: Yes, I have a mobile voucher.    
-    info: |
-    word document: Rent_Increase_Section_8_with_voucher.docx
-    markdown document: Rent_Increase_Section_8_with_voucher.md
+    document: Rent_Increase_Section_8_with_voucher
   voucher_no:
-    label: No, I do not have a mobile voucher.
-    info: |
-    word document: Rent_Increase_Section_8_no_voucher.docx
-    markdown document: Rent_Increase_Section_8_no_voucher.md
+    label: No, I do not have a mobile voucher.    
+    document: Rent_Increase_Section_8_no_voucher
   mobile_home:
-    label: I live in a mobile home park.
-    info: |
-    word document: Rent_Increase_Mobile_Home.docx
-    markdown document: Rent_Increase_Mobile_Home.md
+    label: I live in a mobile home park.    
+    document: Rent_Increase_Mobile_Home
   tenant_at_will:
-    label: I am a tenant at will.  Sometimes called a month to month tenancy.
-    info: |
-    word document: Rent_Increase_No_written_agreement.docx
-    markdown document: Rent_Increase_No_written_agreement.md
+    label: I am a tenant at will.  Sometimes called a month to month tenancy.    
+    document: Rent_Increase_No_written_agreement
   public_housing:
     label:  I live in public housing.
-    info: |
-    word document: Rent_Increase_public_housing.docx
-    markdown document: Rent_Increase_public_housing.md
+    document: Rent_Increase_public_housing
 ---
-# Disclaimer - used for screen output (for download it's embedded in each docx files.)
+# Disclaimer - used for screen output (for download it's embedded in each docx file.)
 template: disclaimerOnline
-content file: Disclaimer.md
+content file: 
+  code: |
+    ('Disclaimer_' + get_language() + '.md').replace('_en','')
 ---
 # Attachment Logic: Assembles relevant DOCX into PDF for download.
 code: |

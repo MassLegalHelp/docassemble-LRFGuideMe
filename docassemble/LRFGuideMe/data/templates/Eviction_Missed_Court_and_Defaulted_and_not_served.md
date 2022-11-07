@@ -2,7 +2,7 @@ Guide Me: Steps to take when...
 ===============================
 
 You missed your eviction hearing, you \"defaulted,\" and you have not been served with a notice of a scheduled eviction
-----------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------
 
 If you do not show up for a court hearing, your landlord can \"default\"
 you - as long as you are not in active military service. Your landlord
@@ -39,3 +39,21 @@ move on your own.
 
 It may cost the landlord more money to hire someone to move you and your
 things out of your apartment.
+
+#### Until March 31, 2021, you may be eligible to stop an eviction where your landlord is asking for back rent
+
+You might be protected by the federal CDC Moratorium if you
+
+-   cannot pay your full rent because you have lost income or have high
+    medical expenses, 
+
+-   are making best efforts to pay the rent including applying for
+    financial help, and
+
+-   are likely to become homeless or doubled up if evicted.
+
+[Learn more about the
+moratorium](https://www.masslegalhelp.org/covid-19/housing), and how to send your landlord a
+[declaration](https://MassLegalHelp.org/cdc-declaration.pdf)
+that you are protected by the federal CDC moratorium on evictions.
+
