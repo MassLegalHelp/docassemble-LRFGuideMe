@@ -41,7 +41,8 @@ code: |
 ---
 ga id: ChooseLanguage
 question: |
-  Choose your language
+  Choose your language<br> 
+  Elija su idioma
 field: user.language
 choices:
   - "English": en
