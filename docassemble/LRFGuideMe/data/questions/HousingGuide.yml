@@ -1,7 +1,9 @@
 # A Community Legal Aid App
-# Built by Michael Buccino & Melanie Kaufman
-comment: |
-  Triage tool to provide guide documents based on specific housing issues.
+# Built by Michael Buccino & Melanie Kaufman initially
+comment: Triage tool to provide guide documents based on specific housing issues.
+---
+translations: 
+  - HousingGuide_es.xlsx  
 ---
 # Title in top left of window
 metadata:
@@ -9,9 +11,12 @@ metadata:
     Massachusetts Legal Resource Finder - Housing Guide Me
   short title: |
     LRFGuideMe - Housing Guide Me
-  continue button label: Next
-  show login: False 
-
+  #continue button label: Next
+  show login: False
+---
+# Note: docassemble doesn't seem to translate the matadata block, so we use this block for label customization.
+default screen parts:
+  continue button label: Next  
 ---
 objects:
   - user: Individual
@@ -23,11 +28,25 @@ features:
   question back button: True
   navigation back button: False
   labels above fields: True
-  debug: False
-  hide navbar: True - uncomment before release
+  debug: True
+  hide navbar: True #Set to True before release and it will hide debug as well
   javascript: "https://mlrf-5f1d8.firebaseapp.com/assets/mlrf-da.js"
   css: "https://mlrf-5f1d8.firebaseapp.com/assets/mlrf-da.css" 
-
+---
+# Language
+initial: True
+code: |
+  set_language(user.language)
+  process_action()
+---
+ga id: ChooseLanguage
+question: |
+  Choose your language<br> 
+  Elija su idioma
+field: user.language
+choices:
+  - "English": en
+  - "Español": es 
 ---
 include:
   - HousingGuide-screen-output.yml
@@ -66,9 +85,10 @@ code: |
   if emailYN:     
     sent_then_download
 ---
+ga id: StartScreen
 field: start_screen
 question: |
- Get steps to help with your legal problem
+  Get steps to help with your legal problem
 subquestion: |
   After you answer a few questions, you will get a list of steps to help you take control of your housing problem. You can:
   
@@ -87,7 +107,7 @@ fields:
   - Check the box next to every problem you have: user_issues    
     datatype: checkboxes
     choices:
-      - ${main_issues['bad_conditions']['label']}: bad_conditions
+      - ${main_issues['bad_conditions']['label']}: bad_conditions      
       - ${main_issues['behind_on_rent']['label']}: behind_on_rent
       - ${main_issues['complaints']['label']}: complaints
       - ${main_issues['eviction']['label']}: eviction
