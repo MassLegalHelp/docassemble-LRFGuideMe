@@ -6,6 +6,7 @@ from distutils.util import convert_path
 
 standard_exclude = ('*.pyc', '*~', '.*', '*.bak', '*.swp*')
 standard_exclude_directories = ('.*', 'CVS', '_darcs', './build', './dist', 'EGG-INFO', '*.egg-info')
+
 def find_package_data(where='.', package='', exclude=standard_exclude, exclude_directories=standard_exclude_directories):
     out = {}
     stack = [(convert_path(where), '', package)]
@@ -43,7 +44,7 @@ def find_package_data(where='.', package='', exclude=standard_exclude, exclude_d
     return out
 
 setup(name='docassemble.LRFGuideMe',
-      version='2.0.0',
+      version='2.0.1',
       description=('A docassemble extension.'),
       long_description='#Authors\r\n\r\nThis project originally was called SuffolkLITLab/docassemble-HousingGuide, owned by Quinten Steenhuis, quinten@lemmalegal.com, designed and written as a student project by Michael Buccino and Melanie Kaufman. \r\n\r\nWe inherited the 0.10 version of that project, and on 7/29/2020 moved it to a new location under this new project name, as we continue to adapt it for implementation on the Massachusetts Legal Resource Finder.\r\n\r\nRochelle Hahn\r\nGordon Shaw\r\nCaroline Robinson\r\nPurple Sky\r\n\r\n=============================================\r\nMajor revisions:\r\nVersion 2.0.0 - added the Spanish translation in Nov. 2022.',
       long_description_content_type='text/markdown',

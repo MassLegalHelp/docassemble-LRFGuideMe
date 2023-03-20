@@ -1,8 +1,8 @@
-# Guí­enme: Qué hacer cuando...
+# GuÃ­enme: QuÃ© hacer cuando...
 
-## usted vive en una vivienda subvencionada o pública,
+## usted vive en una vivienda subvencionada o pÃºblica,
 
-## cree que está pagando la cantidad equivocada de alquiler, y
+## cree que estÃ¡ pagando la cantidad equivocada de alquiler, y
 
 ## le ha informado a su trabajador o al administrador de la propiedad que ha perdido ingresos, pero no ha recibido ninguna respuesta
 
@@ -10,12 +10,12 @@
 
 Si no ha recibido respuesta de su trabajador, llame.
 
-Tal vez el trabajador esté esperando que usted aporte alguna prueba de que ha perdido ingresos. A esta prueba la llaman \"verificación"\.
+Tal vez el trabajador estÃ© esperando que usted aporte alguna prueba de que ha perdido ingresos. A esta prueba la llaman \"verificaciÃ³n"\.
 
 #### Si no tiene noticias de su trabajador, tome la iniciativa.
 
-Asegúrese de que le **escribió** y le comunicó a su trabajador o al administrador de la propiedad su pérdida de ingresos. Conserve una copia de la carta.
+AsegÃºrese de que le **escribiÃ³** y le comunicÃ³ a su trabajador o al administrador de la propiedad su pÃ©rdida de ingresos. Conserve una copia de la carta.
 
-Si sólo se lo dice en persona o les deja un mensaje en el teléfono, a veces los trabajadores o los administradores de la propiedad olvidan que les ha dicho que ha perdido ingresos.
+Si sÃ³lo se lo dice en persona o les deja un mensaje en el telÃ©fono, a veces los trabajadores o los administradores de la propiedad olvidan que les ha dicho que ha perdido ingresos.
 
-Es importante informar por escrito que sus ingresos se redujeron. Hágalo en cuanto sepa que sus ingresos están bajando. Póngale la fecha a esta notificación escrita y guarde copias. Esto representa una prueba en caso de que haya una disputa sobre cuándo dio el aviso. En la mayorí­a de los casos, el alquiler se reducirá a partir del primer mes posterior a la notificación.
+Es importante informar por escrito que sus ingresos se redujeron. HÃ¡galo en cuanto sepa que sus ingresos estÃ¡n bajando. PÃ³ngale la fecha a esta notificaciÃ³n escrita y guarde copias. Esto representa una prueba en caso de que haya una disputa sobre cuÃ¡ndo dio el aviso. En la mayorÃ­Â­a de los casos, el alquiler se reducirÃ¡ a partir del primer mes posterior a la notificaciÃ³n.
