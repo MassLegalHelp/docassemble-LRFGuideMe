@@ -81,6 +81,7 @@ data:
  violation_agreement_no:
    label: Have you been given papers saying that you are violating your agreement?
    document: Eviction_Cannot_keep_agreement
+# The following 3 are only used as question label on the screen
  default_judgement:
    label: I missed my court date and a default judgement was entered.
  agreement:
