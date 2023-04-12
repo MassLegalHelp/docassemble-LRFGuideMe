@@ -32,31 +32,3 @@ Usted puede tener derecho a un refugio si tiene hijos y el propietario le ha des
    * usted no ha hecho nada que justifique el desalojo.
 
 Infórmese sobre cómo encontrar refugio. Consulte: Programas de asistencia de vivienda de emergencia en Mass.gov: Mass.Gov/emergency-housing-assistance-programs
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-{{p include_docx_template(‘Disclaimer.docx’) }}
-{{p include_docx_template('Authorship.docx') }}
