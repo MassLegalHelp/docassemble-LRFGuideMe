@@ -18,18 +18,6 @@ Estos son los requisitos:
 
 Consulte: [Infórmese sobre la Asistencia Residencial para Familias en Transición (Residential Assistance for Families in Transition, RAFT)](https://www.mass.gov/service-details/learn-about-residential-assistance-for-families-in-transition-raft) en el sitio web Mass.gov.
 
-#### Usted quizá pueda evitar el desalojo cuando su propietario le pida el alquiler atrasado.
-
-Es posible que esté protegido por la moratoria federal de los CDC si:
-
-- no puede pagar el alquiler completo porque ha perdido ingresos o sus gastos médicos son elevados, 
-
-- usted está haciendo todo lo posible para pagar el alquiler, incluyendo solicitar ayuda financiera y
-
-- es probable que se quede sin hogar o que tenga que mudarse a vivir con otra familia si lo desalojan.
-
-[Infórmese sobre la moratoria](https://www.masslegalhelp.org/covid-19/housing), y sobre cómo enviarle al propietario una [declaración](https://MassLegalHelp.org/cdc-declaration.pdf) de que está protegido por la moratoria federal de los CDC sobre desalojos.
-
 #### Haga un plan de pago con el propietario
 
 Muchos propietarios están más interesados en recibir el pago del alquiler que en desalojarle. Por eso aceptan planes de pago.

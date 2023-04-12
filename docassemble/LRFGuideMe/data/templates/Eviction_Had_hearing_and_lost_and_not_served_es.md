@@ -22,22 +22,6 @@ Puede presentar una moción para pedirle a la corte que “aplace” o retrase l
 
 Consulte [Aplazamiento - Cómo representarse a sí mismo en un caso de desalojo](https://www.masslegalhelp.org/housing/lt1-booklet-8-stay.pdf).
 
-#### Usted puede ser elegible para evitar el desalojo cuando su propietario esté pidiendo el alquiler atrasado
-
-Es posible que esté protegido por la moratoria federal de los CDC si:
-
-- no puede pagar el alquiler completo porque ha perdido ingresos o sus gastos médicos son elevados, 
-
-- usted está haciendo todo lo posible para pagar el alquiler, incluyendo solicitar ayuda financiera y
-
-- es probable que se quede sin hogar o que tenga que mudarse a vivir con otra familia si lo desalojan.
-
-Infórmese sobre la moratoria y sobre cómo enviarle al propietario una declaración de que está protegido por la moratoria federal de los CDC sobre desalojos.
-
-Consulte:  
-[MassLegalHelp.org/covid-19/housing](https://www.masslegalhelp.org/covid-19/housing) y  
-[MassLegalHelp.org/cdc-declaration.pdf](https://MassLegalHelp.org/cdc-declaration.pdf)
-
 #### Hable con el propietario
 
 Incluso después de haber perdido su caso de desalojo, muchos propietarios siguen dispuestos a negociar un acuerdo con usted.

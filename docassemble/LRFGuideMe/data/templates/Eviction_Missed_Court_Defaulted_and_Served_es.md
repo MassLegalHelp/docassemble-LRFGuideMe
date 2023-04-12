@@ -25,20 +25,6 @@ Aunque el propietario no esté interesado en que se quede a largo plazo, puede e
 
 Es posible que sea más caro para el propietario pagarle a un alguacil o a un agente de policía para que le desaloje y saque todas sus cosas.
 
-###. Usted quizá pueda evitar el desalojo cuando el propietario le pida el alquiler atrasado.
-
-Es posible que esté protegido por la moratoria federal de los CDC si:
-   * no puede pagar el alquiler completo porque ha perdido ingresos o sus gastos médicos son elevados, 
-   * usted está haciendo todo lo posible para pagar el alquiler, incluyendo solicitar ayuda financiera y
-   * es probable que se quede sin hogar o que tenga que mudarse a vivir con otra familia si lo desalojan.
-
-Infórmese sobre la moratoria y sobre cómo enviarle al propietario una declaración de que está protegido por la moratoria federal de los CDC sobre desalojos.
-
-
-Consulte:
-MassLegalHelp.org/covid-19/housing y 
-MassLegalHelp.org/cdc-declaration.pdf
-
 ###  Solicite lugar en un refugio o asistencia de emergencia
 
 Usted puede tener derecho a un refugio si tiene hijos y el propietario le ha desalojado porque:
@@ -46,3 +32,31 @@ Usted puede tener derecho a un refugio si tiene hijos y el propietario le ha des
    * usted no ha hecho nada que justifique el desalojo.
 
 Infórmese sobre cómo encontrar refugio. Consulte: Programas de asistencia de vivienda de emergencia en Mass.gov: Mass.Gov/emergency-housing-assistance-programs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{{p include_docx_template(‘Disclaimer.docx’) }}
+{{p include_docx_template('Authorship.docx') }}

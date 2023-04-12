@@ -10,22 +10,6 @@ Debido a la pandemia de COVID-19, las cortes llevan a cabo audiencias por Zoom o
 
 Si no se presenta, el propietario puede pedirle a la corte que emita una “sentencia de incumplimiento” en contra de usted.
 
-#### Usted puede ser elegible para evitar el desalojo cuando su propietario esté pidiendo el alquiler atrasado
-
-Es posible que esté protegido por la moratoria federal de los CDC si:
-
-- no puede pagar el alquiler completo porque ha perdido ingresos o sus gastos médicos son elevados, 
-
-- usted está haciendo todo lo posible para pagar el alquiler, incluyendo solicitar ayuda financiera y
-
-- es probable que se quede sin hogar o que tenga que mudarse a vivir con otra familia si lo desalojan.
-
-Infórmese sobre la moratoria y sobre cómo enviarle al propietario una declaración de que está protegido por la moratoria federal de los CDC sobre desalojos.
-
-Consulte:  
-[MassLegalHelp.org/covid-19/housing](https://www.masslegalhelp.org/covid-19/housing) y  
-[MassLegalHelp.org/cdc-declaration.pdf](https://MassLegalHelp.org/cdc-declaration.pdf)
-
 #### Presente una respuesta
 
 Use el formulario de respuesta para explicarle a la corte por qué no debe ser desalojado. Las razones por las que no debe ser desalojado son sus “defensas”.
