@@ -17,25 +17,6 @@ Zoom or cannot attend court.
 If you do not show up, the landlord can ask the court for a \"default
 judgment\" against you.
 
-#### Until March 31, 2021, you may be eligible to stop an eviction where your landlord is asking for back rent
-
-You might be protected by the federal CDC Moratorium if:
-
--   You cannot pay your full rent because you have lost income or have
-    high medical expenses, 
-
--   You are making best efforts to pay the rent including applying for
-   financial help, and
-
--   You are likely to become homeless or doubled up if evicted.
-
-Learn more about the moratorium, and how to send your landlord a
-declaration that you are protected by the federal CDC moratorium on
-evictions.
-
-See [MassLegalHelp.org/covid-19/housing](https://www.masslegalhelp.org/covid-19/housing) and
-[MassLegalHelp.org/cdc-declaration.pdf](https://MassLegalHelp.org/cdc-declaration.pdf)
-
 #### File an Answer
 
 Use the Answer form to explain to the court, why you should not be

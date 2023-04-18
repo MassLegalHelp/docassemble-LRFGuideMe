@@ -23,15 +23,3 @@ Si tiene tiempo, presente **su propia** moción para modificar el acuerdo.
 Si tiene dificultades para cumplir el acuerdo, puede pedirle al propietario que lo modifique.
 
 Presente una moción para modificar el acuerdo para que su propietario vuelva al tribunal y puedan renegociarlo.
-
-#### Usted quizá pueda evitar el desalojo cuando su propietario le pida el alquiler atrasado.
-
-Es posible que esté protegido por la moratoria federal de los CDC si:
-
-- no puede pagar el alquiler completo porque ha perdido ingresos o sus gastos médicos son elevados, 
-
-- usted está haciendo todo lo posible para pagar el alquiler, incluyendo solicitar ayuda financiera y
-
-- es probable que se quede sin hogar o que tenga que mudarse a vivir con otra familia si lo desalojan.
-
-[Infórmese sobre la moratoria](https://www.masslegalhelp.org/covid-19/housing), y sobre cómo enviarle al propietario una [declaración](https://MassLegalHelp.org/cdc-declaration.pdf) de que está protegido por la moratoria federal de los CDC sobre desalojos.
