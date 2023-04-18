@@ -4,14 +4,6 @@ Guide Me: Steps to take when...
 Your landlord wants to evict you and you get a summons to go to court
 ---------------------------------------------------------------------
 
-#### Call the Court if you cannot access Zoom
-
-Because of the COVID 19 pandemic, the courts are holding hearings by
-ZOOM or telephone. After you receive the summons, the court will mail
-you a notice telling you how to call-in or use Zoom for your hearing.
-Look for information on this notice on what to do if you cannot get on
-Zoom or cannot attend court.
-
 #### Go to court! -- Even if you think you worked everything out with your landlord. 
 
 If you do not show up, the landlord can ask the court for a \"default
