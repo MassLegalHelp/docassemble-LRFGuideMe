@@ -2,10 +2,6 @@
 
 ## el propietario quiere desalojarlo y usted recibe una citación para presentarse en la corte
 
-#### Llame a la corte si no puede usar Zoom
-
-Debido a la pandemia de COVID-19, las cortes llevan a cabo audiencias por Zoom o por teléfono. Después de recibir el citatorio, la corte le enviará un aviso diciéndole cómo llamar o usar Zoom para asistir a su audiencia. Busque información en este aviso sobre qué hacer si no puede usar Zoom o asistir a la corte.
-
 #### ¡Vaya a la corte! -- Aunque piense que ya todo está arreglado con el propietario.
 
 Si no se presenta, el propietario puede pedirle a la corte que emita una “sentencia de incumplimiento” en contra de usted.
